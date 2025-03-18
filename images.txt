@@ -4,3 +4,4 @@ mysql:8.0
 python:3.11
 morrisjobke/webdav
 bytemark/webdav
+thingsboard/tb-postgres
