@@ -7,3 +7,4 @@ bytemark/webdav
 thingsboard/tb-postgres
 thingsboard/tb-gateway:3.5
 thingsboard/tb-gateway:3.5.3
+emqx:5.5.1
